@@ -61,3 +61,7 @@ MatConvNet (optional, for VGG-Face model)
 OpenCV (for image preprocessing)
 
 Scikit-learn (for KNN classifier)
+
+This project was co-developed by:
+Kandoti Venkata Anirudh Sankarshan (AnirudhKandoti)
+Rithvik Rao(rrithvik17)
